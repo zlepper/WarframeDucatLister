@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeDucatLister", "WarframeDucatLister\WarframeDucatLister.csproj", "{B54F77DC-ABA9-4FC7-9AFD-4B53179BB5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeDucatLister.Test", "WarframeDucatLister.Test\WarframeDucatLister.Test.csproj", "{0D4E254D-1541-470C-A38D-39AF2E11C1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54F77DC-ABA9-4FC7-9AFD-4B53179BB5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54F77DC-ABA9-4FC7-9AFD-4B53179BB5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54F77DC-ABA9-4FC7-9AFD-4B53179BB5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54F77DC-ABA9-4FC7-9AFD-4B53179BB5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4E254D-1541-470C-A38D-39AF2E11C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4E254D-1541-470C-A38D-39AF2E11C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4E254D-1541-470C-A38D-39AF2E11C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4E254D-1541-470C-A38D-39AF2E11C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
